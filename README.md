@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I'm Esmatullah</h1>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Esmatullah🔭 I’m working as software developer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I watching movies</p>
+<p align="left">🔭 I’m working as software developer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I watching movies</p>
 
 ###
 
