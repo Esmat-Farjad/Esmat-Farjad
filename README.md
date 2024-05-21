@@ -6,7 +6,7 @@
 </div>
 
 ###
-[![committers.top badge](https://user-badge.committers.top/afghanistan/USERNAME.svg)](https://user-badge.committers.top/afghanistan/USERNAME)
+/*[![committers.top badge](https://user-badge.committers.top/afghanistan/USERNAME.svg)](https://user-badge.committers.top/afghanistan/USERNAME)*/
 
 <h3 align="left">👩‍💻  About Me</h3>
 
