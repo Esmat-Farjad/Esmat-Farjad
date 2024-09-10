@@ -25,7 +25,7 @@
   <a href="https://x.com/Esmat_Farjad?t=QiqKK_v5CQwIgOKiKcgP7Q&s=09" style="text-decoration:none">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="www.facebook.com/esmatullah.farjad">
+  <a href="https://www.facebook.com/Esmatullah.farjad">
   <img src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg" height="25" alt="facebook logo"  />
   </a>
 </div>
