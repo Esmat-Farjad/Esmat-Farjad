@@ -30,7 +30,8 @@
   </a>
 </div>
 
-###
+### Read More About Me 
+<small><a href="https://ehashimi.netlify.app/">click here</a></small>
 
 <h3 align="left">🛠 Language and tools</h3>
 
