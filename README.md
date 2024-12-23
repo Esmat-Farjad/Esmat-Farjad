@@ -16,6 +16,9 @@
   - 📚 I'm currently learning AI<br>
   -⚡ In my free time I watching movies
 </p>
+
+ ##### 📝 <a href="https://ehashimi.netlify.app/">Go to my Portfolio to read more...</a>
+ 
 <div align="left">
 <p align="left"><h4>Get it touch with me..<h4></p>
   <a href="https://www.linkedin.com/in/esmatullah-hashimi-5b56401ba" style="text-decoration:none;">
@@ -30,8 +33,8 @@
   </a>
 </div>
 
-### Read More About Me 
-<small><a href="https://ehashimi.netlify.app/">click here</a></small>
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
