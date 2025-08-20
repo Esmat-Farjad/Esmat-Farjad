@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Esmat Farjad</h1>
+<h1 align="center">👋 Hi, I'm Esmatullah</h1>
 <h3 align="center">💻 Full-Stack Developer | Python | React Native | Next.js | DevOps Enthusiast</h3>
 
 ---
